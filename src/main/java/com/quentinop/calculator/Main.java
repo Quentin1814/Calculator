@@ -1,4 +1,4 @@
-package calculator;
+package com.quentinop.calculator;
 
 public class Main {
 
